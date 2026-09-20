@@ -1,3 +1,6 @@
+<img width="1366" height="768" alt="Screenshot (377)" src="https://github.com/user-attachments/assets/391a2937-d970-4eff-9d8b-79d444fa6945" />
+
+
 # Food Delivery — Restaurant & Food Performance Dashboard
 
 A single-page Power BI dashboard analyzing four months of food delivery order data to answer one question: **which food items and restaurant types perform best?**
